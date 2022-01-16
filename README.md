@@ -14,7 +14,7 @@ Poseo una amplia capacidad creativa, que la aplico a todo lo que hago, eso me fa
 
 ### ¿Mis proyectos? 💻
 
-##### 👾 VideoGame App
+👾 VideoGame App
 
 Desarrollo de un SPA (Single Page Application) utilizando React y Redux para el Front End, los componentes fueron estilizados utilizando CSS sin ningún tipo de librería externa. Se desarrollo a partir de la data extraída de una API, y para el Back End se utilizó Node JS y Express. Algunas de las características de la aplicación:
 - Posibilidad de filtrar los Video juegos que se muestran en el Home
@@ -27,21 +27,3 @@ Desarrollo de un SPA (Single Page Application) utilizando React y Redux para el 
 <img width=30% src=https://user-images.githubusercontent.com/86571084/149676974-37bb84ab-fe48-4eef-a5f1-476bedb34fa8.png alt='VideoGame'>
 <img width=30% src=https://user-images.githubusercontent.com/86571084/149677248-30ee6d85-29cb-4636-9ed4-9f035f5d6ff2.png alt='VideoGame'>
 <div/>
-
-
-
-
-<!--
-**federicofern/federicofern** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
