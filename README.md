@@ -1,4 +1,4 @@
-<img width=80px align="right" src=https://user-images.githubusercontent.com/86571084/149676261-891f2096-4ac9-4239-9499-a0d290b3d6aa.png alt='Federico Fernández'>
+<img width=80px align="right" src=https://user-images.githubusercontent.com/86571084/149678632-d69b2ab0-19da-460a-82e3-293d968f624a.png alt='Federico Fernández'>
 
 # Hola! 👋 Mi nombre es Federico Fernández 😄
 
@@ -23,9 +23,9 @@ Desarrollo de un SPA (Single Page Application) utilizando React y Redux para el 
 - Visibilizar los detalles de los Video Juegos
 
 <div style="display: flex">
-<img width=30.3% src=https://user-images.githubusercontent.com/86571084/149676832-67557379-8519-40b6-87de-4dbe726671dc.png alt='Landing'>
-<img width=30% src=https://user-images.githubusercontent.com/86571084/149676974-37bb84ab-fe48-4eef-a5f1-476bedb34fa8.png alt='Landing'>
-<img width=30% src=https://user-images.githubusercontent.com/86571084/149677248-30ee6d85-29cb-4636-9ed4-9f035f5d6ff2.png alt='Landing'>
+<img width=30.3% src=https://user-images.githubusercontent.com/86571084/149676832-67557379-8519-40b6-87de-4dbe726671dc.png alt='VideoGame'>
+<img width=30% src=https://user-images.githubusercontent.com/86571084/149676974-37bb84ab-fe48-4eef-a5f1-476bedb34fa8.png alt='VideoGame'>
+<img width=30% src=https://user-images.githubusercontent.com/86571084/149677248-30ee6d85-29cb-4636-9ed4-9f035f5d6ff2.png alt='VideoGame'>
 <div/>
 
 
