@@ -1,4 +1,4 @@
-<img width=80px align="right" src=https://user-images.githubusercontent.com/86571084/149678632-d69b2ab0-19da-460a-82e3-293d968f624a.png alt='Federico Fernández'>
+<img width=120px align="right" src=https://user-images.githubusercontent.com/86571084/149678632-d69b2ab0-19da-460a-82e3-293d968f624a.png alt='Federico Fernández'>
 
 # Hola! 👋 Mi nombre es Federico Fernández 😄
 
