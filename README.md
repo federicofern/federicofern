@@ -27,3 +27,26 @@ Desarrollo de un SPA (Single Page Application) utilizando React y Redux para el 
 <img width=30% src=https://user-images.githubusercontent.com/86571084/149676974-37bb84ab-fe48-4eef-a5f1-476bedb34fa8.png alt='VideoGame'>
 <img width=30% src=https://user-images.githubusercontent.com/86571084/149677248-30ee6d85-29cb-4636-9ed4-9f035f5d6ff2.png alt='VideoGame'>
 <div/>
+
+💼 JobPortal
+
+Desarrollo de un Portal de trabajo orientado a la comunidad Trans, donde se fomenta un espacio libre y seguro, para garantizar el acceso a un trabajo digno. Se trabajo el código en TypeScript integrado con las siguientes tecnologías:
+  - React - Redux
+  - NodeJS - Express
+  - Prisma IO
+  - Styled components
+  - Nodemailer
+  - Node cron
+  - Faker JS
+  - Concurrently
+  - MercadoPago
+  - JWT (Jason Web Tokens)
+  - Passport
+  - SHA2
+  
+<div style="display: flex">
+<img width=30.3% src=https://user-images.githubusercontent.com/86571084/154174566-fcb75746-9a08-4ef7-a7d7-7cf2fd5ea8cb.png alt='Transforma'>
+<img width=30% src=https://user-images.githubusercontent.com/86571084/154174659-dbc24037-e03b-4409-a54a-9632b19b1d50.png alt='Transforma'>
+<img width=30% src=https://user-images.githubusercontent.com/86571084/154174703-642b659a-6033-4daf-9628-b95cf28aa172.png alt='Transforma'>
+<div/>
+
