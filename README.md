@@ -14,7 +14,7 @@ Poseo una amplia capacidad creativa, que la aplico a todo lo que hago, eso me fa
 
 ### ¿Mis proyectos? 💻
 
-👾 VideoGame App
+##### 👾 VideoGame App
 
 Desarrollo de un SPA (Single Page Application) utilizando React y Redux para el Front End, los componentes fueron estilizados utilizando CSS sin ningún tipo de librería externa. Se desarrollo a partir de la data extraída de una API, y para el Back End se utilizó Node JS y Express. Algunas de las características de la aplicación:
 - Posibilidad de filtrar los Video juegos que se muestran en el Home
@@ -28,7 +28,9 @@ Desarrollo de un SPA (Single Page Application) utilizando React y Redux para el 
 <img width=30% src=https://user-images.githubusercontent.com/86571084/149677248-30ee6d85-29cb-4636-9ed4-9f035f5d6ff2.png alt='VideoGame'>
 <div/>
 
-💼 JobPortal
+  
+
+##### 💼 JobPortal
 
 Desarrollo de un Portal de trabajo orientado a la comunidad Trans, donde se fomenta un espacio libre y seguro, para garantizar el acceso a un trabajo digno. Se trabajo el código en TypeScript integrado con las siguientes tecnologías:
   - React - Redux
